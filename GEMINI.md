@@ -16,6 +16,8 @@ python -m eval.runner
 
 ## Active Lessons & Invariants
 Review Tier 1 invariants in [.gemini/memory/active_lessons.md](file:///D:/Downloads/triage_project/.gemini/memory/active_lessons.md).
+For candidate interview Q&A and technical rationale, see [docs/INTERVIEW_QNA_GUIDE.md](file:///D:/Downloads/triage_project/docs/INTERVIEW_QNA_GUIDE.md).
+
 
 ## Subsystems Map
 | Subsystem | Scoped Guide | Responsibility |

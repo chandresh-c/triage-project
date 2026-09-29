@@ -7,7 +7,11 @@
 
 Enterprise-grade property & casualty (P&C) auto insurance claims triage automation system built with **LangGraph**, **Pydantic v2**, and **OpenAI**. 
 
+> [!TIP]
+> **Interview Preparation**: For deep-dive technical answers, curveball questions, and the candidate cheat-sheet, see the [Interview Q&A Master Guide](file:///D:/Downloads/triage_project/docs/INTERVIEW_QNA_GUIDE.md).
+
 This system automates First Notice of Loss (FNOL) intake, policy verification, document validation, fraud risk screening, and human-in-the-loop (HITL) adjuster routing—replacing 48-hour manual queues with low-latency (<5s) automated triage while enforcing strict zero-tolerance safety guardrails.
+
 
 ---
 
