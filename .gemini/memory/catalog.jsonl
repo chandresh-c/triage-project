@@ -1,0 +1,1 @@
+{"id": "LESSON-001", "created_at": "2026-09-29", "category": "architecture", "title": "Avoid Serial Multi-Agent Chaining for Deterministic Insurance Tasks", "summary": "Chaining LLM agents sequentially for database queries causes latency compounding and hallucination cascades. Use deterministic tools and parallel state graph nodes instead."}
